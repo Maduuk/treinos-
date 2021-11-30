@@ -1,0 +1,92 @@
+.logo-maça {
+	object-fit:contain;
+
+}
+
+.fundo-vermelho {
+	background-color: rgba(255, 0, 0, 0.712);
+	padding: 3px 0 5px;
+}
+
+.texto-centralizado {
+	text-align: center;
+	color: #FFFFFF;
+	
+}
+
+.background-especial {
+	background-color: #cfeaf7;
+}
+
+.presente {
+	text-decoration: none;
+}
+
+.text-center .img-responsive {
+    width: 100px;
+}
+
+.imagem-carrosel {
+	object-fit: contain;
+    height: 400px;
+}
+
+.texto-estilo {
+	font-weight: bold;
+	font-size: 45px;
+}
+
+.fonte-especial {
+	font-family: 'Roboto', sans-serif;
+}
+
+.iphone-section-bg-color {
+	background-color: rgb(37, 37, 63);
+}
+
+.texto {
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.subtexto {
+	font-size: 25px;
+	font-weight: bold;
+}	
+
+.presente-section {
+	text-decoration: none;
+}
+
+.saiba-mais {
+	text-decoration: none;
+}
+
+.iphone-imagem {
+	object-fit: contain;
+    height: 300px;
+}
+
+.ipad-section-bg-color {
+	background-color:white;
+}
+
+.ipad-fonte-especial {
+	font-family: 'Pacifico', cursive;
+	
+}
+
+.mini-text-estilo {
+	font-size: 35px;
+	color: rgb(94, 51, 151);
+}
+
+.ipad-imagem {
+	object-fit: contain;
+    height: 600px;
+}
+
+.macbook-imagem {
+	object-fit: contain;
+    height: 450px;
+}
